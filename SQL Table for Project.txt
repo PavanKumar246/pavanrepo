@@ -1,0 +1,25 @@
+Author's Library (Books Store)
+
+SQL Table:
+
+create table tbl_user(username varchar(30),email varchar(30),password varchar(30),phone varchar(20),gender varchar(20),id int);
+
+Example:
+
+USERNAME
+------------------------------
+EMAIL                                              GENDER             ID
+-------------------------------------------------- ---------- ----------
+PASSWORD             PHONE
+-------------------- --------------------
+pavan123
+pavankumarusz@gmail.com                            Male             2805
+Passw0rd             8187055618
+
+chander123
+chander.m246@gmail.com                             Male             1914
+chan@123             8278066818
+
+lokesh246
+lokesh.246@gmail.com                               Male             2125
+loki@23              9287076778
